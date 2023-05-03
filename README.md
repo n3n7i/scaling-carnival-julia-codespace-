@@ -9,5 +9,5 @@ Everything you do here is contained within this one codespace. There is no repos
 
 cd /home/codespace
 
-./juliaup/bin/julia
+.juliaup/bin/julia
 
